@@ -1,2 +1,6 @@
- let x = (a,b) =>a*b
-// console.log(x(15,20));
+function greet() 
+ {
+console.log('Hello world');
+ }
+let intervalId = setTimeout(greet, 3000);
+console.log

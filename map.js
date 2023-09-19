@@ -34,5 +34,5 @@ const fruits = new Map([
 //console.log(fruits);
 
 //entries
-console.log(fruits.entries());
+// console.log(fruits.entries());
 //console.log(fruits);
