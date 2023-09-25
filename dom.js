@@ -125,7 +125,7 @@
     }
     
     {
-        document.getElementById("demo1").innerHTML = "Number of forms tag: " + document.forms.length;
+        // document.getElementById("demo1").innerHTML = "Number of forms tag: " + document.forms.length;
     }
     
     {
@@ -142,4 +142,4 @@
     
     {
         // document.getElementById("title").innerHTML = "The title of this document is: " + document.title;
-    }
+    } 

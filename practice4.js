@@ -14,7 +14,7 @@ function person(number) {
     return sum === number;
   }
   
-  const number = 28;
+  const number = 6;
   if (person(number)) {
     console.log(`${number} is a perfect number.`);
   } else {
